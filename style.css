@@ -1,0 +1,172 @@
+body {
+  background-image: url("https://c.tenor.com/E4HHlYKWcWMAAAAM/stick-bugged-lol.gif");
+  background-size: cover;
+  height: 10;
+  margin:0;
+  padding:0;
+}
+
+h1 {
+  background-image: linear-gradient(to bottom, red,orange,yellow,green,blue,indigo,violet);
+  border-radius: 0.25em;
+  color: white; 
+  font-family: "Broadway";
+  font-size :  50px;
+  text-align: center;
+  -webkit-text-stroke:  1px #d1415d  ; 
+}
+
+.img1 {
+  align-self: center;
+  display: block;
+  height:  150px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  
+}
+
+div {
+  background: rgba(255,255,255,0.5);
+  border : 4px ;
+  padding: 5px;
+}
+
+.table {
+  border:  6px solid #95ba6e;
+  border-radius: 25px;
+}
+
+ol {
+  color:  #d1415d;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-weight: bold;
+  
+}
+a {
+  color: indigo ;
+}
+
+a:visited {
+  color: yellow;
+}
+
+a:hover {
+  color:  turquoise;
+}
+
+.img2{
+  display: block;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+h2 {
+  background: linear-gradient(to bottom, red, orange, yellow, green, blue, violet);
+  color: transparent;
+  font-family: "broadway";
+  font-size:  30px;
+  letter-spacing: 5px;
+  margin-top: 0;
+  margin-bottom: 2;
+  padding-left: 20px;
+  -webkit-text-stroke:  1px #d1415d  ; 
+  -webkit-background-clip: text;
+  text-align: left;
+  word-spacing: 10px;  
+}
+
+.curi {
+  color: #4b3c90;
+  font-family: Garamond ;
+  font-weight: bold;
+}
+
+.img3{
+  display: block;
+  height: 200px;
+}
+.img4{
+  display: block;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+
+.remind {
+  color: magenta;
+}
+.quest {
+  color: #2f851f ;
+  text-shadow: 2px 2px #78bc65;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img5{
+  display: block;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+.ADIEU{
+  background: linear-gradient(to bottom, red, orange, yellow, green, blue, violet);
+  color: transparent;
+  font-family: "broadway";
+  font-size:  50px;
+  letter-spacing: 5px;
+  margin-top: 0;
+  margin-bottom: 2;
+  padding-left: 20px;
+  text-align: center;
+  word-spacing: 10px; 
+  -webkit-text-stroke:  2px pink; 
+  -webkit-background-clip: text;
+  
+}
+form {
+  color: turquoise;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 120%;
+  font-weight:  bold;
+  padding-left: 30px;
+  text-align: left;
+  text-shadow: 5px 2px 5px black;
+}
+input {
+  background-color: #682486;
+  border: 3px solid magenta;
+  border-radius: 4px;
+  color: aquamarine;
+  font-family: "Andale Mono", AndaleMono, monospace;
+  height: 35px;
+  margin: 8px 0;
+  width:  50%;
+}
+
+
+button {
+  background-color: #76FF7A;
+  border: none;
+  border-radius: 25px;
+  color: blue;
+  display: inline-block;
+  font-family: Papyrus, fantasy;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 200px;
+  padding: 15px 32px;
+  text-align: center;
+}
+
+p, ul, ol, form{
+  font-size: 120%;
+}
